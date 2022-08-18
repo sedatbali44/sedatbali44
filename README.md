@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sedatbali44
-- 👀 I’m interested in Java , React ,Angular and RDB
-- 🌱 I’m currently learning react.
+- 👀 I’m interested in Java ,NodeJS , React ,Angular and RDB
+- 🌱 I’m currently learning React and NuxtJS.
 - 📫 sedatbali44@gmail.com
 
 <!---
