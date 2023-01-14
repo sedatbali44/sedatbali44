@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sedatbali44
 - 👀 I’m interested in Java ,NodeJS , React ,Angular,Vue
-- 🌱 I’m currently working with Java, React and NuxtJS.
+- 🌱 I’m currently working with Java, React and Vue.
 - 📫 sedatbali44@gmail.com
 
 <!---
