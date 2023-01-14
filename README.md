@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sedatbali44
-- 👀 I’m interested in Java ,NodeJS , React ,Angular,Vue and RDB
+- 👀 I’m interested in Java ,NodeJS , React ,Angular,Vue
 - 🌱 I’m currently working with Java, React and NuxtJS.
 - 📫 sedatbali44@gmail.com
 
