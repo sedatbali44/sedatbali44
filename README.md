@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sedatbali44
 - 👀 I’m interested in Java ,NodeJS , React ,Angular,Vue
-- 🌱 I’m currently working with Java, React,NestJS and NextJS.
+- 🌱 I am currently working on projects with Microservice, Java, React, NestJS and NextJS tools.
 - 📫 sedatbali44@gmail.com
 
 <!---
